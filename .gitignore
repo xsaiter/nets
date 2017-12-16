@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.c
+!*.h
+!nets-cli
+!nets-srv
